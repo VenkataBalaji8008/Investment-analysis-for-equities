@@ -1,1 +1,1 @@
-# Investment-analysis-for-equities
+Python 
